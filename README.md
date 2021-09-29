@@ -1,1 +1,1 @@
-Personal Website @ [arushi-mittal.github.io](arushi-mittal.github.io)
+[Personal Website](https://arushi-mittal.github.io)
